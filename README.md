@@ -26,9 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub))]((https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub))
-- Live Site URL: [Add live site URL here]((https://nft-card-component-eight.vercel.app/))
-
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
+- Live Site URL: [Add live site URL here](https://nft-card-component-eight.vercel.app/)
 ### Built with
 
 - Semantic HTML5 markup
